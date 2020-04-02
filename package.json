@@ -1,6 +1,6 @@
 {
   "name": "xls2enketo",
-  "version": "0.0.1-beta.1",
+  "version": "0.0.1",
   "description": "",
   "main": "lib/xls2enketo.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "enketo-transformer": "^1.34.0"
+    "enketo-transformer": "~1.34.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
